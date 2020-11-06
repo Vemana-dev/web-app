@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><results>
+<header>
+  <cloc_url>github.com/AlDanial/cloc</cloc_url>
+  <cloc_version>1.88</cloc_version>
+  <elapsed_seconds>0.228146076202393</elapsed_seconds>
+  <n_files>14</n_files>
+  <n_lines>190</n_lines>
+  <files_per_second>61.364193647496</files_per_second>
+  <lines_per_second>832.799770930303</lines_per_second>
+  <report_file>cloc.xml</report_file>
+</header>
+<files>
+  <file name="web-app\.project" blank="0" comment="0" code="42"  language="XML" />
+  <file name="web-app\pom.xml" blank="5" comment="12" code="40"  language="Maven" />
+  <file name="web-app\.classpath" blank="0" comment="0" code="28"  language="XML" />
+  <file name="web-app\.settings\.jsdtscope" blank="0" comment="0" code="13"  language="XML" />
+  <file name="web-app\.settings\org.eclipse.wst.common.component" blank="0" comment="0" code="11"  language="Visualforce Component" />
+  <file name="web-app\.settings\org.eclipse.jdt.core.prefs" blank="0" comment="0" code="9"  language="INI" />
+  <file name="web-app\.settings\org.eclipse.wst.common.project.facet.core.xml" blank="0" comment="0" code="7"  language="XML" />
+  <file name="web-app\src\main\webapp\web-inf\web.xml" blank="1" comment="0" code="6"  language="XML" />
+  <file name="web-app\src\main\webapp\index.jsp" blank="0" comment="0" code="5"  language="JSP" />
+  <file name="web-app\.settings\org.eclipse.m2e.core.prefs" blank="0" comment="0" code="4"  language="INI" />
+  <file name="web-app\.settings\org.eclipse.wst.validation.prefs" blank="0" comment="0" code="2"  language="INI" />
+  <file name="web-app\.settings\org.jboss.ide.eclipse.as.core.prefs" blank="0" comment="0" code="2"  language="INI" />
+  <file name="web-app\readme.md" blank="0" comment="0" code="2"  language="Markdown" />
+  <file name="web-app\.tern-project" blank="0" comment="0" code="1"  language="JSON" />
+  <total blank="6" comment="12" code="172" />
+</files>
+</results>
